@@ -1,4 +1,4 @@
-# Nice to meet you on my Github 💥
+# Nice to meet you in my Github 💥
 
 *ABOUT ME*
 - living in Berlin for almost 8 years now, but born and raised in the south of Germany near Freiburg 
