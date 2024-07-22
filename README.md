@@ -1,4 +1,9 @@
-## Hi there 👋
+# Nice to meet you on my Github 💥
+
+### About Me
+After being born and raised in the south of Germany near Freiburg i'm living in Berlin now for almoust 8 years.
+
+
 
 <!--
 **adrianricken/adrianricken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
