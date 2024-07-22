@@ -11,7 +11,7 @@
 
 
 *get in touch*
-[adrianricken@gmail.com](mailto:adrianricken@gmail.com) | [instagram](https://www.instagram.com/adrianoparmigiano/)
+[Mail](mailto:adrianricken@gmail.com) | [Instagram](https://www.instagram.com/adrianoparmigiano/)
 
 
 <!--
