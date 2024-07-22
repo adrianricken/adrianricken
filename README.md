@@ -4,9 +4,11 @@
 - living in Berlin for almost 8 years now, but born and raised in the south of Germany near Freiburg 
 - bachelor's degree in Architecture at TU Berlin
 - started to get involved in web dev with first experiences in HTML, CSS and JavaScript
-- currently learning at Spiced Academy
+- i'm also into photography, design and art and want to bring my sense of beauty into codes
+- currently learning at **Spiced Academy**
 
 
+*
 
 
 <!--
