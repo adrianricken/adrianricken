@@ -7,6 +7,9 @@
 - i'm also into photography, design and art and want to bring my sense of beauty into codes
 - currently learning at **Spiced Academy**
 
+[gif coding](https://tenor.com/de/view/coding-gif-25183725)
+
+
 
 
 <!--
