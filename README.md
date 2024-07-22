@@ -1,10 +1,10 @@
 # Nice to meet you on my Github!
 
 ### About Me
-📌    living in Berlin for almost 8 years now, but born and raised in the south of Germany near Freiburg ---
-🎓    bachelor's degree in Architecture ---
-👨‍💻    started to get involved in web dev with first experiences in HTML, CSS and JavaScript ---
-💥    currently learning at Spiced Academy
+- living in Berlin for almost 8 years now, but born and raised in the south of Germany near Freiburg 
+- bachelor's degree in Architecture ---
+- started to get involved in web dev with first experiences in HTML, CSS and JavaScript ---
+- currently learning at Spiced Academy
 
 <!--
 **adrianricken/adrianricken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
