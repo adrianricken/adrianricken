@@ -1,11 +1,7 @@
 # Nice to meet you on my Github 💥
 
 ### About Me
-After being born and raised in the south of Germany near Freiburg i'm living in Berlin for almost 8 years now.
-At TU Berlin i did my Bachelor's degree in Architecture from 2016-2020 and worked as an intern at AFF Architekten for 6 months afterwards.
-Then the second pandemic wave hit and from january - august 2021 i was part of one of the vaccination centers here in Berlin.
-In october 2021 i started my master's degree at HCU Hamburg but wasn't too happy there which is why i tried to change back to Berlin. 
-As that didn't work out and i wasn't too happy about the work as an architect in general i thought of going an alternate path and came in touch with coding / web development. 
+sdf
 
 <!--
 **adrianricken/adrianricken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
