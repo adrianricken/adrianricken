@@ -10,8 +10,7 @@
 ![coding gif](coding.gif)
 
 
-*CONTACT* \
-[Mail](mailto:adrianricken@gmail.com) | [Instagram](https://www.instagram.com/adrianoparmigiano/)
+*CONTACT* [Mail](mailto:adrianricken@gmail.com) | [Instagram](https://www.instagram.com/adrianoparmigiano/)
 
 
 <!--
