@@ -7,7 +7,7 @@
 - i'm also into photography, design and art and want to bring my sense of beauty into codes
 - currently learning at **Spiced Academy**
 
-![coding gif](coding.gif =400x)
+![coding gif](coding.gif)
 
 
 
