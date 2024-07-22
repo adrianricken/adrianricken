@@ -1,6 +1,6 @@
 # Nice to meet you on my Github 💥
 
-### ABOUT ME
+*ABOUT ME*
 - living in Berlin for almost 8 years now, but born and raised in the south of Germany near Freiburg 
 - bachelor's degree in Architecture at TU Berlin
 - started to get involved in web dev with first experiences in HTML, CSS and JavaScript
