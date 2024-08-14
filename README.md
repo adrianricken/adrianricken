@@ -7,7 +7,7 @@
 - also into photography, design and art and motivated to bring my sense of beauty into code
 - currently learning at **Spiced Academy**
 
-![coding gif width=600px](coding.gif)
+![coding gif](coding.gif)
 
 
 *CONTACT* [Mail](mailto:adrianricken@gmail.com) | [Instagram](https://www.instagram.com/adrianoparmigiano/)
