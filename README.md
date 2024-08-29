@@ -4,7 +4,6 @@
 <p>my name is Adrian and i'm an aspiring web developer - currently learning full-time @Spiced in Berlin</p>
 <br>
 <br>
-<blockquote>
   some of my interests outside of coding:
   <ul>
     <li>architecture</li>
@@ -12,7 +11,6 @@
     <li>surfing (waves, not the web)</li>
     <li>interior design</li>
   </ul>
-</blockquote>
 <br>
 <hr>
 <br>
