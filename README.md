@@ -14,6 +14,7 @@
   </ul>
 </blockquote>
 <br>
+<hr>
 <br>
 <p>skills:</p>
 <div align="left">
@@ -34,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
 </div>
 <br>
+<hr>
 <br>
 <p>where to find me:</p>
 <div align="left">
@@ -45,6 +47,7 @@
   </a>
 </div>
 <br>
+<hr>
 <br>
 <p>some numbers:</p>
 <div align="left">
