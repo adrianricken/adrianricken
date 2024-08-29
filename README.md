@@ -1,7 +1,7 @@
 <h1>Nice to meet you in my Github 💥</h1>
 
-<p>My name is Adrian, i'm an aspiring web developer with background in architecture</p>
-<p>- currently learning full-time @Spiced in Berlin- </p>
+<blockquote>My name is Adrian and i'm an aspiring web developer - currently learning full-time @Spiced in Berlin</blockquote>
+<p></p>
 
 <br>
 <br>
