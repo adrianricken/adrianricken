@@ -9,6 +9,11 @@
 
 ![coding gif](coding.gif)
 
+SKILLS
+- **Python** ![Python](https://progress-bar.dev/90/)
+- **JavaScript** ![JavaScript](https://progress-bar.dev/70/)
+- **Java** ![Java](https://progress-bar.dev/80/)
+
 
 *CONTACT* [Mail](mailto:adrianricken@gmail.com) | [Instagram](https://www.instagram.com/adrianoparmigiano/)
 
