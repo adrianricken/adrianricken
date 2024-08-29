@@ -1,3 +1,12 @@
+<h1>Nice to meet you in my Github 💥</h1>
+
+<p>My name is Adrian, i'm an aspiring web developer with background in architecture</p>
+<p>- currently learning full-time @Spiced in Berlin- </p>
+
+<br>
+<br>
+<br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
