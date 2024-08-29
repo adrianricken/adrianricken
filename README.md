@@ -6,6 +6,7 @@
 <blockquote>
   some of my interests outside of coding:
   <ul>
+    <li>architecture</li>
     <li>photography</li>
     <li>surfing (waves, not the web)</li>
     <li>interior design</li>
