@@ -1,34 +1,3 @@
-1. # Nice to meet you in my Github 💥
-2. 
-3. *ABOUT ME*
-4. - living in Berlin for almost 8 years now, but born and raised in the south of Germany near Freiburg 
-5. - bachelor's degree in Architecture at TU Berlin
-6. - started to get involved in web dev with first experiences in HTML, CSS and JavaScript
-7. - also into photography, design and art and motivated to bring my sense of beauty into code
-8. - currently learning at **Spiced Academy**
-9. 
-10. ![coding gif](coding.gif)
-11. 
-12. 
-13. 
-14. *CONTACT* [Mail](mailto:adrianricken@gmail.com) | [Instagram](https://www.instagram.com/adrianoparmigiano/)
-15. 
-16. 
-17. <!--
-18. **adrianricken/adrianricken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-19. 
-20. Here are some ideas to get you started:
-21. 
-22. - 🔭 I’m currently working on ...
-23. - 🌱 I’m currently learning ...
-24. - 👯 I’m looking to collaborate on ...
-25. - 🤔 I’m looking for help with ...
-26. - 💬 Ask me about ...
-27. - 📫 How to reach me: ...
-28. - 😄 Pronouns: ...
-29. - ⚡ Fun fact: ...
-30. -->
-
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
