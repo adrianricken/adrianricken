@@ -1,14 +1,19 @@
 <h1>Nice to meet you in my Github 💥</h1>
 
 <p>My name is Adrian and i'm an aspiring web developer - currently learning full-time @Spiced in Berlin</p>
-<p></p>
-
-<blockquote>My name is Adrian and i'm an aspiring web developer - currently learning full-time @Spiced in Berlin</blockquote>
-
+<br>
+<br>
+<blockquote>
+  some of my interests outside of coding:
+  <ul>
+    <li>photography</li>
+    <li>surfing (waves, not the web)</li>
+    <li>interior design</li>
+  </ul>
+</blockquote>
 <br>
 <br>
 <br>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
