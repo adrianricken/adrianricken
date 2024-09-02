@@ -1,4 +1,4 @@
-<h1>nice to meet you in my Github 💥</h1>
+<h1>welcome to my Github 💥</h1>
 <br>
 <p>my name is Adrian and i'm an aspiring web developer - currently learning full-time @Spiced in Berlin</p>
 <br>
