@@ -1,8 +1,6 @@
 <h1>nice to meet you in my Github 💥</h1>
 <br>
-<br>
 <p>my name is Adrian and i'm an aspiring web developer - currently learning full-time @Spiced in Berlin</p>
-<br>
 <br>
   some of my interests outside of coding:
   <ul>
