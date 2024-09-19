@@ -33,9 +33,9 @@
   <br />
   <br />
   <div align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" alt="illustrator logo"  />
      <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="photoshop logo"  />
      <img width="15" />
       <img src="https://findvectorlogo.com/wp-content/uploads/2022/04/archicad-vector-logo-2022.png" height="40" alt="archicad"  />
 
