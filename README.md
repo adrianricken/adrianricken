@@ -6,8 +6,8 @@
   <ul>
     <li>architecture</li>
     <li>photography</li>
-    <li>surfing (waves, not the web)</li>
     <li>interior design</li>
+    <li>cycling</li>
   </ul>
 <br>
 <hr>
