@@ -46,10 +46,11 @@
 <p>where to find me:</p>
 <div style="display: flex; justify-content: space-between; align="center;">
   <a href="https://www.linkedin.com/in/adrian-ricken/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin"  />
   </a>
+  <img width="15" />
   <a href="https://www.instagram.com/adrianoparmigiano/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="instagram"  />
   </a>
 </div>
 <br>
