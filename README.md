@@ -2,14 +2,15 @@
 <br>
 <p>my name is Adrian and i'm an aspiring web developer - currently learning full-time @Spiced in Berlin</p>
 <br>
-  some of my interests outside of coding:
+  <p>some of my interests outside of coding:</p>
+  
   <ul>
     <li>architecture</li>
     <li>photography</li>
     <li>interior design</li>
     <li>cycling</li>
   </ul>
-<br>
+  <br>
 <hr>
 <br>
 <p>skills:</p>
