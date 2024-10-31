@@ -1,19 +1,17 @@
-<h1>welcome to my GitHub 💥</h1>
-<br>
-<p>my name is Adrian and i'm an aspiring web developer - currently learning full-time @Spiced in Berlin</p>
-<br>
-  <p>some of my interests outside of coding:</p>
-  
-  <ul>
-    <li>architecture</li>
-    <li>photography</li>
-    <li>interior design</li>
-    <li>cycling</li>
-  </ul>
-  <br>
+👋 **Hi, I’m Adrian!**
+
+🌍 *Aspiring full-stack developer and recent Spiced Academy bootcamp graduate, passionate about creating dynamic, user-friendly web applications.*
+
+🎸 **Fun Fact:** When I’m not coding, I’m restoring my vintage Kreidler Florett (1964)!
+
+🚀 *Excited to connect, collaborate, and keep building!*
+<br />
+<br />
 <hr>
-<br>
-<p>skills:</p>
+<br />
+
+**Skills:**
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
    <img width="15" />
@@ -29,7 +27,6 @@
      <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
 </div>
-  <br />
   <br />
   <br />
   <div align="left">
