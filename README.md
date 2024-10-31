@@ -2,8 +2,6 @@
 
 🌍 *Aspiring full-stack developer and recent Spiced Academy bootcamp graduate, passionate about creating dynamic, user-friendly web applications.*
 
-🎸 **Fun Fact:** When I’m not coding, I’m restoring my vintage Kreidler Florett (1964)!
-
 🚀 *Excited to connect, collaborate, and keep building!*
 <br />
 <br />
