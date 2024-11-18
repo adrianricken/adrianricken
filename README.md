@@ -1,6 +1,6 @@
-👋 **Hi, I’m Adrian!**
+## `Welcome to my Github! 😶‍🌫️`
 
-🌍 *Aspiring full-stack developer and recent Spiced Academy bootcamp graduate, passionate about creating dynamic, user-friendly web applications.*
+🌍 *I'm Adrian, an aspiring full-stack developer and recent Spiced Academy bootcamp graduate, passionate about creating dynamic, user-friendly web applications.*
 
 🚀 *Excited to connect, collaborate, and keep building!*
 <br />
