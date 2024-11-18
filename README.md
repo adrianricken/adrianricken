@@ -20,12 +20,11 @@
 <br>
 <br>
 <br>
-![PhotoShop](https://img.shields.io/badge/adobe%20photoshop-000?style=for-the-badge&logo=adobe%20photoshop)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white)
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="photoshop logo"  />
-     <img width="15" />
-      <img src="https://findvectorlogo.com/wp-content/uploads/2022/04/archicad-vector-logo-2022.png" height="40" alt="archicad"  />
+<img src="https://findvectorlogo.com/wp-content/uploads/2022/04/archicad-vector-logo-2022.png" height="40" alt="archicad"  />
 
 <br>
 <hr>
