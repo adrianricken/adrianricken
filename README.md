@@ -24,15 +24,15 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white)
-
+<br>
+<br>
+<br>
 <img src="https://findvectorlogo.com/wp-content/uploads/2022/04/archicad-vector-logo-2022.png" height="40" alt="archicad"  />
 
 <br>
 <hr>
-<br>
-<p>where to find me:</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/adrian-ricken])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-ricken)
 
 <hr>
 <br>
