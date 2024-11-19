@@ -1,8 +1,9 @@
-## `Welcome to my Github! 😶‍🌫️`
+## `Welcome to my Github 🪞 buhtiG ym ot emocleW`
+<br>
 
-🌍 *I'm Adrian, an aspiring full-stack developer and recent Spiced Academy bootcamp graduate, passionate about creating dynamic, user-friendly web applications.*
+*i'm <strong>Adrian</strong>, an aspiring full-stack developer and recent Spiced Academy bootcamp graduate, passionate about creating dynamic, user-friendly web applications.*
 
-🚀 *Excited to connect, collaborate, and keep building!*
+🕸️ *excited to connect, collaborate, and keep building!*
 <br />
 <br />
 <hr>
@@ -13,9 +14,9 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
 <br>
@@ -30,16 +31,9 @@
 <hr>
 <br>
 <p>where to find me:</p>
-<div style="display: flex; justify-content: space-between; align="center;">
-  <a href="https://www.linkedin.com/in/adrian-ricken/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" alt="linkedin"  />
-  </a>
-  <img width="15" />
-  <a href="https://www.instagram.com/adrianoparmigiano/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="instagram"  />
-  </a>
-</div>
-<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/adrian-ricken])
+
 <hr>
 <br>
 <br>
