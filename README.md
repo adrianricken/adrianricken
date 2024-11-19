@@ -1,9 +1,11 @@
-## `Welcome to my Github 🪞 buhtiG ym ot emocleW`
+## `Welcome to my Github 🔄 buhtiG ym ot emocleW`
 <br>
 
-*i'm <strong>Adrian</strong>, an aspiring full-stack developer and recent Spiced Academy bootcamp graduate, passionate about creating dynamic, user-friendly web applications.*
+👋 i'm <strong>Adrian</strong>, an aspiring full-stack developer and recent Spiced Academy bootcamp graduate, passionate about creating dynamic, user-friendly web applications
 
-🕸️ *excited to connect, collaborate, and keep building!*
+📍 located in Berlin
+
+🕸️ excited to connect, collaborate, and keep building!
 <br />
 <br />
 <hr>
