@@ -1,7 +1,7 @@
 ## `Welcome to my Github 🔄 buhtiG ym ot emocleW`
 <br>
 
-🔘 i'm <strong>Adrian</strong>, an aspiring full-stack developer and recent Spiced Academy bootcamp graduate, passionate about creating dynamic, user-friendly web applications
+Hi, i'm <strong>Adrian</strong>, an aspiring full-stack developer and recent Spiced Academy bootcamp graduate, passionate about creating dynamic, user-friendly web applications
 
 📍 located in Berlin
 
