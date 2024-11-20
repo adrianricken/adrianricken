@@ -38,18 +38,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-ricken)
 
-<hr>
-<br>
-<br>
-<div align="center";>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianricken&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" width="400" alt="languages graph"  />
-</div>
 
-###
-
-###
-
-###
-
-
-###
